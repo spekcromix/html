@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<img src="logo.svg" alt="logo rodolfo" height="100px" width="100px" />
+	<h1>Hoja de vida</h1>
+	<h2>Datos Personales</h2>
+	
+	<ul>
+		<li><h3>Nombre:</h3> Luis Rodolfo Lara Espinoza</li>
+		<li><h3>Fecha de Nacimiento:</h3> 24/11/1995</li>
+		<li><h3>Lugar de Nacimiento:</h3> Tepatitlan</li>
+	</ul>
+
+
+	<ul>
+		<li><a href="index.html">Inicio</a></li>
+		<li><a href="educacion.html">Educación</a></li>
+		<li><a href="experiencia.html">Experiencia</a></li>
+	</ul>
+
+	<h2>Educacion</h2>
+	<table border="1" cellspacing="0" cellpadding="2">
+		<thead>
+			<tr>
+				<th>Año</th>
+				<th>Institución</th>
+				<th>Lugar</th>
+				<th>¿Culminó?</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1999</td>
+				<td>Cuauhtemoc</td>
+				<td>Arandas, Jal</td>
+				<td>Si</td>
+			</tr>
+			<tr>
+				<td>2002</td>
+				<td>Venustiano Carranza</td>
+				<td>Arandas, Jal</td>
+				<td>Si</td>
+			</tr>
+			<tr>
+				<td>2008</td>
+				<td>Francisco Medina Ascencio</td>
+				<td>Arandas, Jal</td>
+				<td>Si</td>
+			</tr>
+			<tr>
+				<td>2011</td>
+				<td>CONALEP</td>
+				<td>Arandas, Jal</td>
+				<td>Si</td>
+			</tr>
+			<tr>
+				<td>2011</td>
+				<td>Instituto Tecnológico José M. M. Pasquel y Henríquez Campus Arandas</td>
+				<td>Arandas, Jal</td>
+				<td>En curso</td>
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<h2>Agregar Estudios</h2>
+	<form action="">
+		<label for="anio">Año</label>
+		<select name="anio" id="anio">
+			<option value="1">2016</option>
+			<option value="2">2015</option>
+			<option value="3">2014</option>
+			<option value="4">2013</option>
+		</select><br><br>
+		<label for="institucion">Institución:</label>
+		<input type="text" name="institucion" id="institucion" required><br><br>
+		<label for="lugar">Lugar:</label>
+		<input type="text" name="lugar" id="lugar" required><br><br>
+		<h3>¿Culmino?</h3>
+		<input type="radio" id="si" name="culmino" value="Si">
+		<label for="si">Si</label>
+		<input type="radio" id="no" name="culmino" value="No">
+		<label for="no">No</label><br><br>
+	<button>Enviar</button>
+	</form>
+	<br>
+
+	
+	<footer>
+		&copy; Derechos reservados
+		<ul>
+			<li><strong>Correo:</strong>rodspektre@gmail.com</li>
+			<li><strong>Telefono:</strong>3481231828</li>
+			<li><strong>Facebook:</strong>https://www.facebook.com/RL.Energy</li>
+		</ul>
+	</footer>
+</body>
+</html>

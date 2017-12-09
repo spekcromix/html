@@ -1,0 +1,19 @@
+<svg width="160" height="162" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="164" width="162" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" id="svg_5" d="m128.102937,2.087498c-14.540679,10.918145 -34.638616,11.024125 -49.289738,0.325513c-14.091204,10.293412 -33.228793,10.588069 -47.608842,0.883589l-25.857262,25.796257c15.905839,16.15535 15.813392,42.111612 -0.271805,58.1562c-2.134799,5.477937 -3.253662,5.213781 -3.486556,10.730288c-0.547713,13.28145 2.659734,25.671347 12.706479,35.002765c8.974701,8.335567 21.153747,11.870852 32.852679,10.609466c19.535779,1.006931 28.901376,9.447537 32.831217,14.49593c5.306514,-5.394164 13.558629,-14.065895 38.639268,-15.146925c14.972086,-2.155856 20.382673,-5.638637 27.409399,-12.07768c9.457781,-8.784244 12.764826,-19.907712 12.4861,-32.266956c-0.115744,-5.130954 -0.745117,-6.914808 -3.852722,-13.466145c-16.159795,-16.11898 -16.17155,-42.243573 -0.042895,-58.382047l-26.515322,-24.660256z" stroke-opacity="null" stroke-width="1.5" fill="#e67e22"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_6" y2="34.499997" x2="128.500001" y1="123.5" x1="25.5" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <text stroke="#000" transform="matrix(0.7575213899038269,0,0,1,80.88174736994978,-13) " xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_7" y="55.5" x="-42.045261" stroke-opacity="null" fill="#000000">Rodolfo</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_8" y="122.5" x="57.5" stroke-opacity="null" stroke-width="NaN" stroke="#000" fill="#000000">Lara</text>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="118.5" x2="137.499997" y1="31.5" x1="27.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+ </g>
+</svg>
